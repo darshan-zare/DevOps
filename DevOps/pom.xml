@@ -3,6 +3,7 @@
   <groupId>com</groupId>
   <artifactId>DevOps</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>Dev</name>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <dependency>
